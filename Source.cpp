@@ -3,7 +3,8 @@
 
 int main()
 {
-	printf("Oleg it is okay to be a gay\nPress F for pay a respect\n");
+	
+printf("Vova you are gay");
 
 	system("pause");
 	return 0;
